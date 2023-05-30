@@ -1,4 +1,3 @@
-#Binary Trees Project
 This project explains the functionality of binary trees data structure
 It contains the below tasks:
 0. New node
